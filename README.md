@@ -13,7 +13,7 @@ ERP系统是企业资源计划(Enterprise Resource Planning )的简称，是指�
 * 日志管理：Log4j 1.2.16
 * 项目管理框架: Maven3.2.3
 
-#开发环境
+# 开发环境
 
 * IDE: IntelliJ IDEA2016
 * DB: Mysql5.1
@@ -21,7 +21,7 @@ ERP系统是企业资源计划(Enterprise Resource Planning )的简称，是指�
 * WEB: Tomcat7.0
 * Maven: Maven3.2.3
 
-#运行环境
+# 运行环境
 
 * WEB服务器：Tomcat7.0
 * 数据库服务器：Mysql5.1
