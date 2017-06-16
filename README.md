@@ -28,3 +28,4 @@ ERP系统是企业资源计划(Enterprise Resource Planning )的简称，是指�
 * JAVA平台: JRE1.8
 * 操作系统：Windows7
 
+# 系统截图
