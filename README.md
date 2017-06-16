@@ -31,5 +31,5 @@ ERP系统是企业资源计划(Enterprise Resource Planning )的简称，是指�
 # 系统截图
 
 * 进销存模块 
- ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+ ![image](https://github.com/tycooc/ERP/blob/master/imgs/c.png)
 
