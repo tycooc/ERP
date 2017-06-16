@@ -33,4 +33,21 @@ ERP系统是企业资源计划(Enterprise Resource Planning )的简称，是指�
 * 进销存模块 
 
  ![image](https://github.com/tycooc/ERP/blob/master/imgs/c.png)
+ 
+ 
+* 基础数据模块 
+
+ ![image](https://github.com/tycooc/ERP/blob/master/imgs/b.png)
+ 
+ 
+ * 报表查询模块 
+
+ ![image](https://github.com/tycooc/ERP/blob/master/imgs/a.png)
+ 
+ 
+ * 系统管理模块 
+
+ ![image](https://github.com/tycooc/ERP/blob/master/imgs/d.png)
+ 
+ 
 
