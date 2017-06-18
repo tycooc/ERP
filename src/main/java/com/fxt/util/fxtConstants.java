@@ -4,7 +4,7 @@ public interface fxtConstants
 {
     /**
      * 定义资产管理公共常量
-     * @author jishenghua
+     * @author
      */
     public class Common
     {

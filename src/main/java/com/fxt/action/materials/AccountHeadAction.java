@@ -28,7 +28,7 @@ import com.fxt.util.PageUtil;
 import com.fxt.util.Tools;
 /*
  * 财务表头管理
- * @author jishenghua  qq:752718920
+ * @author
  */
 @SuppressWarnings("serial")
 public class AccountHeadAction extends BaseAction<AccountHeadModel>

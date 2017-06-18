@@ -18,7 +18,7 @@ import com.fxt.service.materials.PersonIService;
 import com.fxt.util.PageUtil;
 /*
  * 经手人管理
- * @author jishenghua  qq:752718920
+ * @author
 */
 @SuppressWarnings("serial")
 public class PersonAction extends BaseAction<PersonModel>

@@ -7,7 +7,7 @@ import org.springframework.dao.DataAccessException;
 import com.fxt.util.PageUtil;
 /**
  * 服务层底层接口
- * @author ji-sheng-hua qq752718920
+ * @author
  * @param <T>
  */
 public interface BaseIService<T>

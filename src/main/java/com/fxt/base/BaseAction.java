@@ -15,7 +15,7 @@ import com.fxt.model.po.Basicuser;
 import com.fxt.service.basic.LogIService;
 /**
  * struts2工具类
- * @author jishenghua qq752718920
+ * @author
  * struts2 base action 一些常用方法获取
  */
 @SuppressWarnings("serial")

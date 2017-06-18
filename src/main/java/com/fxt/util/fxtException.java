@@ -3,9 +3,6 @@ package com.fxt.util;
 /**
  * @title: 平台异常基类 
  * @description: 用于包装一些异常信息，打印日志等服务
- * @author jishenghua
- * @qq 7 5 2 7 1 8 9 2 0
- * @since: 2014-02-24
  */
 @SuppressWarnings("serial")
 public class fxtException extends Exception

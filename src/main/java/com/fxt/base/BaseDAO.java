@@ -12,7 +12,7 @@ import com.fxt.util.PageUtil;
 import com.fxt.util.SearchConditionUtil;
 /**
  * 基础dao
- * @author ji_sheng_hua qq:752718920
+ * @author
  */
 public class BaseDAO<T> extends HibernateDaoSupport implements BaseIDAO<T>
 {

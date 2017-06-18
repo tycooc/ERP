@@ -26,7 +26,7 @@ import com.fxt.service.basic.UserBusinessIService;
 import com.fxt.util.PageUtil;
 /**
  * 应用
- * @author ji_sheng_hua  qq752 718 920
+ * @author
  */
 @SuppressWarnings("serial")
 public class AppAction extends BaseAction<AppModel>

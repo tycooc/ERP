@@ -30,7 +30,7 @@ import com.fxt.util.Tools;
 
 /*
  * 单据表头管理
- * @author jishenghua  qq:752718920
+ * @author
 */
 @SuppressWarnings("serial")
 public class DepotHeadAction extends BaseAction<DepotHeadModel>

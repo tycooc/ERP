@@ -10,7 +10,7 @@ import com.fxt.util.PageUtil;
 
 /**
  * 常用增删改查操作
- * @author ji-sheng-hua qq752718920
+ * @author
  * @param <T>
  */
 public interface BaseIDAO<T>

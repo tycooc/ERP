@@ -12,7 +12,7 @@ import com.fxt.model.po.Basicuser;
 import com.fxt.util.PageUtil;
 /**
  * 底层服务层
- * @author ji-sheng-hua qq752718920
+ * @author
  * @param <T>
  */
 public abstract class BaseService<T> implements BaseIService<T>

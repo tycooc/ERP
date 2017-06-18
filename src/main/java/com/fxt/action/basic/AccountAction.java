@@ -20,7 +20,7 @@ import com.fxt.util.PageUtil;
 import com.fxt.util.Tools;
 /**
  * 结算账户
- * @author ji sheng hua qq752718920
+ * @author
  */
 @SuppressWarnings("serial")
 public class AccountAction extends BaseAction<AccountModel>

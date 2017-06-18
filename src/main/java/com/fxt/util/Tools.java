@@ -17,7 +17,7 @@ import java.util.regex.Pattern;
 import java.math.BigInteger;
 /**
  * 工具类
- * @author jishenghua  qq:7-5-2-7-1-8-9-2-0
+ * @author
  */
 public class Tools 
 {
@@ -437,7 +437,7 @@ public class Tools
 	
 	/**
      * 判断字符串中是否含有中文
-     * @author jishenghua
+     * @author
      * @param str
      * @return
      */
@@ -458,7 +458,7 @@ public class Tools
 	
 	 /**
      * 去掉字符串中所有符号，不论是全角，还是半角的，或是货币符号或者空格等
-     * @author jishenghua
+     * @author
      * @param s
      * @return 
      *
@@ -506,7 +506,7 @@ public class Tools
 	
     /**
      * 使用参数Format将字符串转为Date
-     * @author jishenghua
+     * @author
      * @param strDate
      * @param pattern
      * @return

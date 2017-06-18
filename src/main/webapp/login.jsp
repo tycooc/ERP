@@ -42,7 +42,7 @@
 		      		<input type="button" value=" " id="btn_login" />
 		    	</div>
 		    	<p id="login_tip">如果忘记密码，请与管理员联系。</p>
-		    	<!-- <p id="copyright">Copyright © 2015  方晓婷  jishenghua  V1.0</p> -->
+		    	<!-- <p id="copyright">Copyright © 2017  方晓婷   V1.0</p> -->
 		  	</div>
 		</form>
 		<script type="text/javascript">

@@ -20,7 +20,7 @@ import com.fxt.service.materials.MaterialIService;
 import com.fxt.util.PageUtil;
 /*
  * 商品管理
- * @author jishenghua  qq:752718920 
+ * @author
 */
 @SuppressWarnings("serial")
 public class MaterialAction extends BaseAction<MaterialModel>

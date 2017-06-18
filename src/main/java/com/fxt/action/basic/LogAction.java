@@ -18,7 +18,7 @@ import com.fxt.util.Tools;
 
 /*
  *日志管理
- * @author jishenghua  qq:7-5-2-7-1-8-9-2-0
+ * @author
 */
 @SuppressWarnings("serial")
 public class LogAction extends BaseAction<LogModel>

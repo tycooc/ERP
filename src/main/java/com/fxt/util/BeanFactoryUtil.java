@@ -10,8 +10,7 @@ import org.springframework.context.support.FileSystemXmlApplicationContext;
 /**
  * 获取spring配置中的bean对象,是单例，只会加载一次，请注意使用
  * 注意：此工具类默认处理UI组件WEB-INF目录下的applicationContext.xml配置文件,请注意文件 名和路径
- * @author  jishenghua
- * @qq 7 5 2 7 1 8 9 2 0
+ * @author
  * @version V1.0
  */
 public class BeanFactoryUtil

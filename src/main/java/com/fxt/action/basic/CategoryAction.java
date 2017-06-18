@@ -16,7 +16,7 @@ import com.fxt.model.vo.basic.CategoryModel;
 import com.fxt.service.basic.CategoryIService;
 import com.fxt.util.PageUtil;
 /*
- * @author jishenghua  qq:7-5-2-7-1-8-9-2-0
+ * @author
 */
 @SuppressWarnings("serial")
 public class CategoryAction extends BaseAction<CategoryModel>

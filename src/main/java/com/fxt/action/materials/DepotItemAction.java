@@ -26,7 +26,7 @@ import com.fxt.util.PageUtil;
 import com.fxt.util.Tools;
 /*
  * 单据明细管理
- * @author jishenghua  qq:752718920
+ * @author
 */
 @SuppressWarnings("serial")
 public class DepotItemAction extends BaseAction<DepotItemModel>

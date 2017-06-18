@@ -8,8 +8,6 @@ import com.fxt.base.Log;
 
 /**
  * 获取应用系统路径
- * @author  jishenghua
- * @qq 7 5 2 7 1 8 9 2 0
  */
 public class PathTool
 {

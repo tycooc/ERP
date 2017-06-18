@@ -5,7 +5,7 @@ import com.fxt.model.po.Logdetails;
 
 /**
  * 日志相关处理接口
- * @author angel
+ * @author
  */
 public interface LogIDAO extends BaseIDAO<Logdetails>
 {

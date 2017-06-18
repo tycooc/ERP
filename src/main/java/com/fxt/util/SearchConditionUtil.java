@@ -6,7 +6,6 @@ import java.util.Set;
 
 /**
  * 根据搜索条件拼装成查询hql语句
- * @author jishenghua  qq:752718920
  */
 public class SearchConditionUtil 
 {

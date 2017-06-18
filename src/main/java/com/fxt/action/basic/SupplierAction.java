@@ -21,7 +21,7 @@ import com.fxt.util.fxtException;
 import com.fxt.util.PageUtil;
 /*
  * 单位管理
- * @author jishenghua  qq:752718920
+ * @author
 */
 @SuppressWarnings("serial")
 public class SupplierAction extends BaseAction<SupplierModel>

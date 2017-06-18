@@ -7,9 +7,6 @@ import java.util.List;
 import java.util.Map;
 /**
  * 分页工具类，实现分页功能
- * @author  jishenghua  
- * @qq 7 5 2 7 1 8 9 2 0
- * @version  [版本号version01, 2014-2-21]
  */
 @SuppressWarnings("serial")
 public class PageUtil<E> implements Serializable

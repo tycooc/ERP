@@ -15,7 +15,7 @@ import com.fxt.service.basic.UserBusinessIService;
 import com.fxt.util.PageUtil;
 /*
  * 权限关系管理
- * @author jishenghua  qq:752718920
+ * @author
 */
 @SuppressWarnings("serial")
 public class UserBusinessAction extends BaseAction<UserBusinessModel>
